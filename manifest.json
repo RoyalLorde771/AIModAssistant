@@ -1,0 +1,15 @@
+{
+    "name": "AIModAssistant",
+    "description": "AI Moderation Assistant - analyzes messages and suggests punishments using AI",
+    "authors": [
+        {
+            "name": "User",
+            "id": "0"
+        }
+    ],
+    "main": "index.js",
+    "vendetta": {
+        "icon": "ic_application_command_24px"
+    },
+    "version": "1.0.0"
+}
